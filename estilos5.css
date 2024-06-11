@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(AZUL.avif);
+    background-size: 100%;
+}
+
+header {
+    background-color: #029aff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.QQ{
+    background-color: hsl(202, 100%, 54%);
+    position: absolute;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    top: 380PX;
+    left: 200PX;
+    width: 300PX;
+
+}
+.JJ{
+    position: absolute;
+    top: 150px;
+    left: 580px;
+    width: 200px;
+}
+.QE{
+    background-color: hsl(202, 100%, 54%);
+    position: absolute;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    top: 380PX;
+    left: 830PX;
+    width: 300PX;
+}
+.CC{
+    background-color: rgb(24, 86, 255);
+    color: white;
+    padding: 18px;
+    border: rgb(2, 0, 134) 4px solid;
+    font-weight: bold;
+    border-radius: 4%;
+    font-size: 12px;
+    position: absolute;
+    top: 20PX;
+    left: 25px;
+}

@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    background-image: url(morado.jpg);
+    
+    
+}
+header {
+    background-color: #6a3ccd;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #444;
+    padding: 10px;
+}
+nav a {
+    color: #621b80;
+    margin: 0 15px;
+    text-decoration: none;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+.PP {
+    position: absolute;
+    padding: 20px;
+    top: 550px;
+    width: 800px;
+    height: 10px;
+    left: 530px;
+}
+.RR {
+    margin-bottom: 20px;
+    background-color: #bd13e3;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.RR h2 {
+    margin-top: 0;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+.EE{
+    position: absolute;
+    top: 150px;
+    left: 400px;
+    width: 200px;
+}
+.FF{ 
+    position: absolute;
+    top: 150px;
+    left: 850px;
+    width: 200px;
+}
+.TT{
+    position: absolute;
+    top: 150px;
+    left: 1300px;
+    width: 200px;
+}
+.KK{
+    background-color: rgb(113, 0, 243);
+    color: white;
+    padding: 25px;
+    border: rgb(230, 6, 255) 4px solid;
+    font-weight: bold;
+    border-radius: 4%;
+    font-size: 15px;
+    position: absolute;
+    top: 150Px;
+    left: 20px;
+
+}
+.KA{
+    background-color: rgb(113, 0, 243);
+    color: white;
+    padding: 25px;
+    border: rgb(230, 6, 255) 4px solid;
+    font-weight: bold;
+    border-radius: 4%;
+    font-size: 15px;
+    position: absolute;
+    top: 800Px;
+    left: 20px;
+
+}

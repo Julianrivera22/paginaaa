@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    background-image: url(naranja.avif);
+    background-size: 30%;
+  }
+  header {
+    background-color: #ff8400;
+    color: black;
+    padding: 10px;
+    text-align: center;
+  }
+  nav {
+    background-color: #666;
+    padding: 10px;
+    text-align: center;
+  }
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  section {
+    padding: 20px;
+  }
+  .GG {
+    background-color: #ffb764;
+    position: absolute;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    top: 150PX;
+    left: 30PX;
+    width: 350PX;
+
+  }
+  .FF{
+    background-color: #ffb764;
+  position: absolute;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    top: 150PX;
+    left: 480PX;
+    width: 350PX;
+  }
+  .RR{
+    background-color: #ffb764;
+    position: absolute;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    top: 150PX;
+    left: 910PX;
+    width: 350PX;
+
+  }
+  .VV{
+    width: 350PX;
+  }
+  .WW{
+    background-color: rgb(255, 10, 10);
+    color: black;
+    padding: 23px;
+    border: rgb(171, 0, 0) 4px solid;
+    font-weight: bold;
+    border-radius: 4%;
+    font-size: 13px;
+    position: absolute;
+    top: 40PX;
+    left: 20px;
+
+  }
+  .DD{
+    background-color: rgb(255, 10, 10);
+    color: black;
+    padding: 23px;
+    border: rgb(171, 0, 0) 4px solid;
+    font-weight: bold;
+    border-radius: 4%;
+    font-size: 13px;
+    position: absolute;
+    top: 40PX;
+    right: 20px;
+
+  }
+
+  
